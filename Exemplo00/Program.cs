@@ -14,6 +14,7 @@ namespace Exemplo00
         static void Main(string[] args)
         {
             int menu = 1;
+            SistemaContext contexto = new SistemaContext();
             while (menu != 0)
             {
                 Console.Clear();
@@ -25,7 +26,6 @@ namespace Exemplo00
                 Console.WriteLine("0 - Sair");
                 menu = Convert.ToInt32(Console.ReadLine());
 
-                SistemaContext contexto = new SistemaContext();
                 if (menu == 1)
                 {
                     Console.Clear();
@@ -111,9 +111,23 @@ namespace Exemplo00
                     }
                     Console.ReadLine();
                     #endregion
-                    #endregion
                 }
 
+
+            }
+
+
+            Habilidade habilidade = new Habilidade();
+            /*habilidade.IdAnimal = 1;
+            habilidade.Nome = "Invisibilidade";
+            contexto.Habilidade.Add(habilidade);
+            contexto.SaveChanges();*/
+
+            var habilidades = contexto.Habilidade.Include("Animal").ToList();
+
+            foreach (Habilidade habilidadeAux in habilidades)
+            {
+                Console.WriteLine(habilidade.Nome + "  " + habilidade.Animal.Nome);
             }
         }
 
