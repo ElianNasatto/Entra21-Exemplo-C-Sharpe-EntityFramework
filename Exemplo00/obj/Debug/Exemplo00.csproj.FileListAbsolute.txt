@@ -1,0 +1,12 @@
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\Exemplo00.exe.config
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\Exemplo00.exe
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\Exemplo00.pdb
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\EntityFramework.dll
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\EntityFramework.xml
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\obj\Debug\Exemplo00.csprojAssemblyReference.cache
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\obj\Debug\Exemplo00.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\obj\Debug\Exemplo00.csproj.CopyComplete
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\obj\Debug\Exemplo00.exe
+C:\Users\Alunos\source\repos\ExemploEntityFramework\Entra21-CSharpe-Exemplo-EntityFramework\Exemplo00\obj\Debug\Exemplo00.pdb
